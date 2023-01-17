@@ -10,4 +10,4 @@ const server = http.createServer((request, response) => {
 
 server.listen(port, () => {
   console.log(`Server listens on port ${port}`);
-})
+});
