@@ -13,6 +13,7 @@ Fundamentals of the Nodejs. Repository with examples and basic exercises of modu
 * [OS](https://medium.com/@diego.coder/m%C3%B3dulo-os-en-nodejs-sistema-operativo-e7ac0e1963be)
 * [Path](https://medium.com/@diego.coder/rutas-de-archivos-y-directorios-en-node-js-path-c294002fc176)
 * [HTTP](https://medium.com/@diego.coder/servidor-http-con-node-js-3e594f3f2733)
+* [Child process](https://medium.com/@diego.coder/child-process-en-node-js-69e537c6a50f)
 ## Team
 
 Developed by Diego Cortés
