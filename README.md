@@ -4,6 +4,10 @@ Fundamentals of the Nodejs. Repository with examples and basic exercises of modu
 
 # Resources Spanish
 
+* [Introducción a Nodejs](https://medium.com/@diego.coder/introducci%C3%B3n-a-node-js-b5f33bbe6fb0)
+* [NPM y package.json](https://medium.com/@diego.coder/npm-y-package-json-en-nodejs-87d101c8856e)
+* [CommonJS](https://medium.com/@diego.coder/sistema-de-m%C3%B3dulos-en-node-js-41ce30172003)
+
 ## Team
 
 Developed by Diego Cortés
