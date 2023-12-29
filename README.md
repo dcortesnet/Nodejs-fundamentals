@@ -7,6 +7,7 @@ Fundamentals of the Node.js. Repository with examples and basic exercises of mod
 - Node.js web and docs: https://nodejs.org/en
 - Node.js Stack overflow: https://stackoverflow.com/questions/tagged/node.js
 - NPM: https://www.npmjs.com/
+- DEV patterns JS: https://www.patterns.dev/
 
 ## Personal blog about Node.js
 
