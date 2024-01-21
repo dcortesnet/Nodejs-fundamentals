@@ -1,12 +1,17 @@
 {
-    "name": "testing",
+    "name": "test",
     "version": "1.0.0",
-    "description": "",
+    "description": "My description",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"test"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC"
+    "keywords": [
+        "test"
+    ],
+    "author": "Diego",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
 }
